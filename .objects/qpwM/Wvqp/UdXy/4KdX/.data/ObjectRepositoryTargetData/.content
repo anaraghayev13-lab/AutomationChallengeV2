@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tGQuRyo5cU2MS2MTCYIYAw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" DesignTimeRectangle="1109, 377, 173, 41" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='annual_saving_input_field_*' matching:id='fuzzy' fuzzylevel:id='0.0' tag='INPUT' type='input' class='bubble-element Input a1779166445958x3064' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ddcf17f8-7891-472c-b365-e10aeec65c68" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1008, 380, 98, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Annual Saving' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' class='content' matching:class='fuzzy' fuzzylevel:class='0.0' type='' tag='DIV' check:innerText='Annual Saving' /&gt;" Guid="c3780401-1d61-4cc8-94eb-f3a3c38d9c66" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f27d5dc5face8d20ecaa3f4d49800812.jpg" xmlns="">0MewdNMEq6E-ABPx1rORySw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
