@@ -1,7 +1,7 @@
 {
   "name": "AutomationChallenge",
   "projectId": "608b5c12-42eb-46ce-8bdc-932e29cae384",
-  "description": "Blank Process",
+  "description": "Capturing dynamic items",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.5.1]",

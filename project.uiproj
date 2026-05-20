@@ -1,6 +1,6 @@
 {
   "Name": "AutomationChallenge",
   "ProjectType": "Process",
-  "Description": "Blank Process",
+  "Description": "Capturing dynamic items",
   "MainFile": "Main.xaml"
 }
