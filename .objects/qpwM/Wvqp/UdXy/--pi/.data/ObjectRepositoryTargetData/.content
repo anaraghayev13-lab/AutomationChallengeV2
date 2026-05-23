@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-LyDRv26iUazKCg6Maidtg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="82f9c54b-900f-4a97-beb6-1c0759635835" CvElementArea="846, 300, 27, 26" CvType="CheckBox" DesignTimeRectangle="847, 301, 25, 25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='presentation' tag='BUTTON' /&gt;" Guid="4dd06bfa-78a3-4c9a-af77-460c0a24b79e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="82f9c54b-900f-4a97-beb6-1c0759635835" CvTextArea="879, 306, 81, 13" CvTextArgument="I'm not a robot" CvType="Text" DesignTimeRectangle="879, 306, 81, 13" ElementType="Text" Guid="be29a752-53e2-4fee-be13-358327b28c39" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="df540036b58ac5b586e871cf1baaff30.jpg" xmlns="">063ecN6WUuEWjC36MxRNtUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

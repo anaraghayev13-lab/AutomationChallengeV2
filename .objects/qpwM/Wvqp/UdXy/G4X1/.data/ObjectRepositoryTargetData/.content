@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="UUoENtnGHkyNaqRGWAXkGA" Reference="Ve7akVbxWEKE6qzrL5kapg/G4X1A-FjNUy7QxpcM6aHWQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="sG5g5yi_jU2VYNpk4FLRbA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="498a56cd-3c74-496e-98f7-cff66dbb2c62" CvElementArea="880, 293, 169, 56" CvTextArea="933, 312, 59, 16" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="8, 129, 0, 0" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='submit*' tag='BUTTON' aaname='Submit' /&gt;" Guid="5a002531-d308-441a-a4ca-417961a62109" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
-      <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="3555b5ca-df66-49b5-8f33-71a328f2e72e" CvElementArea="1085, 393, 169, 55" CvTextArea="1138, 412, 59, 16" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="803, 396, 163, 50" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='submit10' tag='BUTTON' type='' class='bubble-element Button clickable-element' aaname='Submit' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Submit' /&gt;" Guid="445b3c98-cb05-46dc-88bb-6747e3537903" SearchSteps="FuzzySelector, CV" />
-        </scg:List>
-      </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="71345396eee60e4fa591f86c0239597a.jpg" xmlns="">03LpYcj9ia0iRRI29Hlq_SQ</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="f26a366e-c450-4120-833c-4c4ae5d81190" CvElementArea="1201, 298, 169, 55" CvTextArea="1255, 317, 59, 16" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="1659, 502, 169, 55" ElementType="Button" ElementVisibilityArgument="Interactive" Guid="1df41add-442c-4239-8dea-b5518f82a1c3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a3e379ca67fcd568d787c4cd65b7223.jpg" xmlns="">0Ep4PHhQiMU-2NRW1j1vF0Q</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
